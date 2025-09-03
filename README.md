@@ -19,8 +19,8 @@ API Testing: Postman / cURL
 
 📦 Installation
 1️⃣ Clone the repo
-git clone https://github.com/your-username/file-service.git
-cd file-service
+git clone https://github.com/your-username/file_parser_django.git
+cd file_service
 
 2️⃣ Create virtual environment
 python -m venv venv
